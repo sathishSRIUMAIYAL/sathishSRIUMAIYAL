@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathishsriumaiyal&label=Profile%20views&color=0e75b6&style=flat" alt="sathishsriumaiyal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align='right' alt='coding' width='400' src='https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif'>
 
 - 🔭 I’m currently working on Senchola **web develop**
 
@@ -20,7 +21,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<img align='right' alt='coding' width='400' src='https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif'>
 <p align="left">
 <a href="https://codepen.io/sathishkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sathishkumar" height="30" width="40" /></a>
 <a href="https://dev.to/sathishkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sathishkumar" height="30" width="40" /></a>
